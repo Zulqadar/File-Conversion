@@ -1,3 +1,6 @@
+//For PDF Focus Follow The Below Nuget Package URL
+//URL=> https://www.nuget.org/packages/sautinsoft.pdffocus/
+
 public static void PdfToExcelAsFiles()
         {
             string pdfFile = @"d:\Table.pdf";
